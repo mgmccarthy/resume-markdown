@@ -1,6 +1,6 @@
 # Michael McCarthy
 **Principal .NET Architect | Distributed Systems & Cloud Modernization | Azure & AWS Expert**  
-Royal Oak, MI 48067 • [LinkedIn](#https://www.linkedin.com/in/michaelgmccarthy/) • [GitHub](#https://github.com/mgmccarthy) • [michaelgmccarthy.com](https://www.michaelgmccarthy.com)
+Royal Oak, MI 48067 • [LinkedIn](https://www.linkedin.com/in/michaelgmccarthy/) • [GitHub](https://github.com/mgmccarthy) • [michaelgmccarthy.com](https://www.michaelgmccarthy.com)
 
 ---
 

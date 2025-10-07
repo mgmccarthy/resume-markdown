@@ -1,6 +1,6 @@
 # Michael McCarthy
 **Principal .NET Architect | Distributed Systems & Cloud Modernization | Azure & AWS Expert**  
-Royal Oak, MI 48067 • [LinkedIn](#) • [GitHub](#) • [michaelgmccarthy.com](https://www.michaelgmccarthy.com)
+Royal Oak, MI 48067 • [LinkedIn](#https://www.linkedin.com/in/michaelgmccarthy/) • [GitHub](#https://github.com/mgmccarthy) • [michaelgmccarthy.com](https://www.michaelgmccarthy.com)
 
 ---
 
@@ -15,17 +15,10 @@ Distributed Systems Architect with 25+ years of experience designing and moderni
 **Modernization:** Legacy to Cloud • Idempotency & Outbox Patterns • Transactional Consistency • System Decomposition  
 **Leadership:** Technical Strategy • Mentorship • Cross-Functional Collaboration • Architecture Governance  
 **DevOps & Tooling:** IaC (Bicep, ARM, CloudFormation) • GitLab, Azure DevOps, Octopus Deploy • Docker • CI/CD  
-
-**Languages & Frameworks:** C#, .NET 6–8, ASP.NET Core, GraphQL, gRPC, REST, SQL, MongoDB, Cosmos DB
-
-**Languages & Frameworks:** C#, .NET 6–8, ASP.NET Core, Azure Functions (Isolated v4)  
-**Architectural Patterns:** Microservices, Event-Driven, REST, gRPC, GraphQL  
-**Data Platforms:** SQL Server, Cosmos DB, MongoDB, DynamoDB
-
 **Languages & Runtimes:** C#, .NET 6–8  
-**Frameworks & Hosting Models:** ASP.NET Core, Azure Functions (isolated worker v4)
+**Frameworks & Hosting Models:** ASP.NET Core, Azure Functions, Containerized & Serverless Architectures  
 **Integration & API Styles:** REST, gRPC, GraphQL, Event-Driven Messaging  
-**Data Platforms:** SQL Server, Cosmos DB, MongoDB, DynamoDB
+**Data Platforms:** SQL Server, Cosmos DB, MongoDB, DynamoDB  
 
 ---
 
@@ -74,7 +67,7 @@ Delivered Azure cloud modernization projects for Fortune 500 clients.
 **Dec 2019 – Oct 2020**
 Led multiple distributed-system projects for clients across fintech and healthcare.
 
-- Designed and built a **multi-tenant SaaS message-monitoring platform**, supporting transient error recovery and multi-cloud hosting (AWS + Azure).  
+- Designed and built a **multi-tenant SaaS message-monitoring platform** for NServiceBus, supporting transient error recovery and multi-cloud hosting (AWS + Azure).  
 - Delivered **gRPC-based POC** for secure transfer of medical imaging data (DICOM).  
 - Supported a **greenfield banking system** (first built in the US in 25+ years) using DDD and NServiceBus to achieve 10–15k TPS through relaxed consistency patterns.  
 
@@ -84,7 +77,7 @@ Led multiple distributed-system projects for clients across fintech and healthca
 
 ### **ALMAC Group – Solutions Architect, ProdIT**  
 **Jun 2017 – Dec 2019**
-Led architecture and governance for a 65-developer group customizing clinical-trial software.
+Led architecture and governance for 65 developers customizing clinical-trial software.
 
 - Established **Architecture Pattern Library** documenting trade-offs and customization patterns.  
 - Built analytical tools using **TFS API** to expose metrics on code customization trends and risks.  
@@ -96,7 +89,8 @@ Led architecture and governance for a 65-developer group customizing clinical-tr
 
 ## Certifications & Training
 - **AWS Certified Cloud Practitioner (2024)**  
-- AWS Architecting, Events & Workflows, Serverless, .NET on Lambda (2024)  
+- AWS Architecture, Events & Workflows, Serverless, .NET on Lambda (2024)  
+- **Microsoft Certified: Azure Fundamentals (2024)**
 - **Udi Dahan’s Advanced Distributed Systems Design** (SOA + DDD, 2019)  
 - **O’Reilly Software Architecture Conference**, New York (2018)  
 - **NServiceBusCon** Attendee & Speaker Support (2015–2016)

@@ -106,5 +106,5 @@ Led architecture and governance for 65 developers customizing clinical-trial sof
 ---
 
 ## Education
-**Bachelor of Science – West Chester University**  
+**West Chester University**  
 West Chester, PA

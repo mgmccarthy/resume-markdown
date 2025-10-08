@@ -30,7 +30,9 @@ Leading the modernization of 20-year-old legacy applications to a serverless, ev
 
 - Designed and implemented the enterprise’s first **pub/sub platform** using Azure Event Grid, defining topology, topic conventions, and message-versioning strategies.  
 - Trained engineering staff on **idempotency, transactional outbox/inbox**, and **Cosmos DB partitioning** for reliable distributed processing.  
-- Partnered with product owners to refine epics and stories into **cloud-native deliverables** optimized for Azure Functions.  
+- Leveraged low-code platforms like [Intent Architect](http://www.intentarchitect.com) to scaffold and evolve greenfield service architecture, design and development in a consistent fashion across the enterprise 
+- Used Copilot prompts to assist in architectural governance and code reviews  
+- Partnered with product owners to refine epics and stories into **cloud-native deliverables** in Azure.  
 
 **Key Impact:** Established foundational eventing infrastructure and modernized multiple legacy products, accelerating the enterprise’s migration to cloud-native services.
 

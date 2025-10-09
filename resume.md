@@ -11,13 +11,13 @@ Distributed Systems Architect with 25+ years of experience designing and moderni
 
 ## Core Competencies
 **Architecture & Design:** Distributed Systems • Event-Driven Architecture • Microservices • DDD • CQRS • Serverless  
-**Cloud Platforms:** Azure (Functions, Event Grid, Cosmos DB, Service Bus, APIM) • AWS (Lambda, SNS/SQS, API Gateway, DynamoDB)  
+**Cloud Platforms:** Azure (Functions, Event Grid, Cosmos DB, Service Bus, APIM, Logic Apps) • AWS (Lambda, SNS/SQS, API Gateway, DynamoDB, EventBridge)  
 **Modernization:** Legacy to Cloud • Idempotency & Outbox Patterns • Transactional Consistency • System Decomposition  
 **Leadership:** Technical Strategy • Mentorship • Cross-Functional Collaboration • Architecture Governance  
-**DevOps & Tooling:** IaC (Bicep, ARM, CloudFormation) • GitLab, Azure DevOps, Octopus Deploy • Docker • CI/CD  
+**DevOps & Tooling:** IaC (Bicep, ARM, CloudFormation) • GitLab, Azure DevOps, Octopus Deploy • CI/CD  
 **Languages & Runtimes:** C#, .NET 6–8  
 **Frameworks & Hosting Models:** ASP.NET Core, Azure Functions, Containerized & Serverless Architectures  
-**Integration & API Styles:** REST, gRPC, GraphQL, Event-Driven Messaging  
+**Integration & API Styles:** REST, Event-Driven Messaging, GraphQL, gRPC  
 **Data Platforms:** SQL Server, Cosmos DB, MongoDB, DynamoDB  
 
 ---
@@ -28,13 +28,15 @@ Distributed Systems Architect with 25+ years of experience designing and moderni
 **Nov 2024 – Present**
 Leading the modernization of 20-year-old legacy applications to a serverless, event-driven cloud architecture in Azure.
 
-- Designed and implemented the enterprise’s first **pub/sub platform** using Azure Event Grid, defining topology, topic conventions, and message-versioning strategies.  
+- Designed and implemented the enterprise’s first **pub/sub platform** using Azure Event Grid, defining topology, topic conventions, message-versioning strategies, and contract discovery and management  
 - Trained engineering staff on **idempotency, transactional outbox/inbox**, and **Cosmos DB partitioning** for reliable distributed processing.  
-- Leveraged low-code platforms like [Intent Architect](http://www.intentarchitect.com) to scaffold and evolve greenfield service architecture, design and development in a consistent fashion across the enterprise 
+- Leveraged low-code platforms like [Intent Architect](http://www.intentarchitect.com) to scaffold and evolve greenfield service architecture enforcing consistent architecture and development across the enterprise 
 - Used Copilot prompts to assist in architectural governance and code reviews  
 - Partnered with product owners to refine epics and stories into **cloud-native deliverables** in Azure.  
 
 **Key Impact:** Established foundational eventing infrastructure and modernized multiple legacy products, accelerating the enterprise’s migration to cloud-native services.
+
+**Tech:** .NET 8, Azure Functions, Cosmos DB, Azure Storage Queues, Azure Event Grid, Azure Sql, Logic Apps, Intent Architect, Copilot Prompt Engineering  
 
 ---
 
